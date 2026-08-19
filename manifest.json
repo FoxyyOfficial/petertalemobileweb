@@ -1,13 +1,14 @@
 {
   "name": "PeterTale",
   "short_name": "PeterTale",
-  "start_url": "/",
+  "start_url": "/petertalemobileweb/",
+  "scope": "/petertalemobileweb/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "/petertalemobileweb/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
